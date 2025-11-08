@@ -1,7 +1,5 @@
-CNN From Scratch
+CNN
 ================
-
-<https://github.com/Tuhin-SnapD/CNN>
 
 Pure NumPy implementation of a tiny convolutional neural network (CNN) designed
 for education and experimentation. The project shows every moving piece needed
