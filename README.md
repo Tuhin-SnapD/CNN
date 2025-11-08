@@ -110,19 +110,6 @@ val_loss, val_acc = model.evaluate(x_val, y_val)
 print(f"Validation accuracy: {val_acc:.3f}")
 ```
 
-Testing
--------
-
-The repository currently ships without automated tests. Running `pytest` simply
-verifies that the test harness is in place:
-
-```
-pytest
-```
-
-Feel free to add tests for new functionality (e.g., layer gradients, data
-loading edge cases) as the codebase evolves.
-
 Troubleshooting
 ---------------
 
